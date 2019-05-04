@@ -4379,7 +4379,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #f0e6ee    ; /* To give the cards a yellow background */
+  background-color: #f2eafb; /* To give the cards a yellow background */
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
